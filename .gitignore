@@ -1,0 +1,8 @@
+*.pem
+*.key
+comsats_deploy
+comsats_deploy.pub
+id_*
+.env
+config.php
+.DS_Store
